@@ -1,65 +1,40 @@
 ---
 layout: home
-title: Just the Class
+title: Natural and Artificial Neural Networks Lab
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Natural and Artificial Neural Networks Lab
 ---
 
-# {{ site.tagline }}
+# {{ site.description }}
 {: .mb-2 }
-{{ site.description }}
+{{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
+**Instructors:** Christos Papadimitriou, John Morrison, Clayton Sanford, and Samuel Deng  
 
-## Just the Class
+**Time:** Thurs 2:10 PM - 4:00 PM.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+**Location:** 516 Milstein Center (Lab 3 onward). First two labs on Zoom (check Courseworks for link).
 
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**Course Description:** Understanding the powers and limitations of artificial neural networks requires exposure to both concepts and practice. This lab section focuses on the latter, supplementing the conceptual framework from the seminar, Natural and Artificial Neural Networks. The lab focuses on giving students without a background in computer science hands-on experience with basic programming in Python, tools for data science, and a variety of machine learning algorithms. 
 
-Just the Class is a set of customizations on top of the popular [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme, which provides a robust and thoroughly-tested foundation that makes it easy to extend for your own special use cases. These foundational features include:
+**Notes on Prerequisites:** The labs are all aimed towards students who have zero programming experience and start with a series of modules that teach the Python fundamentals necessary for later labs, which stress AI/ML applications. The lab section is not a comprehensive introduction to any of these subjects; rather, it is designed to supplement a non-technical understanding of ML and data science by exposing students first-hand to the concepts discussed. If you are a student who has already had exposure (at the level of a full class) to both Python and machine learning, there is likely not much this lab will cover that will be particularly novel to you. Regardless, your participation is welcome. 
 
-- automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
-- and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+Students not formally enrolled in this lab are welcome to attend individual lab sections based on interest.
 
-## Getting Started
+**Learning Outcomes:** This lab will supplement the Natural and Artificial Neural Networks course by giving students hands-on experience with basic programming and machine learning. For the beginning of the semester, students will learn the fundamentals of programming and data science in Python. While students learn about machine learning and artificial neural networks in lecture, the lab will reinforce the principles they learn in class by having students apply ML algorithms–including neural networks–for regression, classification, unsupervised learning, and reinforcement learning. 
 
-Getting started with Just the Class is simple.
+**Grading and Assignments:** Each lab will have approximately 30 minutes of lecture and 90 minutes on an accompanying assignment. Each assignment will have several checkpoints, each validated by a TA for credit. 
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `index.md` with your course information. Be sure to update the `baseurl` and `url` to the appropriate paths (eg. "/20au" and "https://courses.cs.washington.edu/", respectively.).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+For each of the 12 mandatory lab meetings (not counting weeks 1 and 2), students will receive a score of 0, 1, or 2. 
+0 if the student is absent (without instructor pre-approval) or completes none of the checkpoints. 
+1 if the student completes some of the checkpoints. 
+2 if the student completes all of the checkpoints. 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([DS1](https://ucsb-ds.github.io/ds1-f20/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). For a few open-source examples, see the following course websites and their source code.
+If a student does not complete the assignment during the allocated lab time, they may finish it on their own time and have a TA validate their work during office hours.
 
-- [CSE 390HA](https://courses.cs.washington.edu/courses/cse390ha/20au/) ([source code](https://gitlab.cs.washington.edu/cse390ha/20au/website)) is an example of a single-page website that centers modules.
-- [CSE 143](https://courses.cs.washington.edu/courses/cse143/20au/) ([source code](https://gitlab.cs.washington.edu/cse143/20au/website)) hosts an entire online textbook with full-text search.
-- [CSE 373](https://courses.cs.washington.edu/courses/cse373/21su/) ([source code](https://gitlab.cs.washington.edu/cse373-root/21su/website)) is an example of a simple website combining Markdown pages with generated HTML files.
+The lowest-scoring lab will be dropped, and a student’s score for the class will be computed by dividing their total score by 22. These percentages will be converted to letter grades on a standard scale.
 
-Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website.
-
-### Local development environment
-
-Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
-
-1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
-1. Start your local Jekyll server.
-```bash
-$ bundle exec jekyll serve
-```
-1. Point your web browser to [http://localhost:4000](http://localhost:4000)
-1. Reload your web browser after making a change to preview its effect.
-
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+Pair programming is encouraged but not required.

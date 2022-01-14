@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Natural and Artificial Neural Networks Lab
-tagline: COMS4995 Natural and Artificial Neural Networks Lab Section SP2022
-description: Website for SP2022 iteration of COMS4995 Natural and Artificial Neural Networks.
+title: Nat. & Art. NNs Lab                                      # Appears in navbar
+tagline: Columbia University, Spring 2022                       # Appears as a tagline
+description: Natural and Artificial Neural Networks Lab         # The actual title
 author: Samuel Deng
 baseurl: '/coms4995-nat-art-neural-nets' # the subpath of your site, e.g. /blog
 url: 'https://essdeee.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,14 +24,10 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
-search_enabled: true
-heading_anchors: true
+search_enabled: false
+heading_anchors: false
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
