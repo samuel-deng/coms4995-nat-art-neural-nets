@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nat. & Art. NNs Lab                                      # Appears in navbar
+title: N&ANNs Lab 2022                                          # Appears in navbar
 tagline: Columbia University, Spring 2022                       # Appears as a tagline
 description: Natural and Artificial Neural Networks Lab         # The actual title
 author: Samuel Deng
@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
-color_scheme: light
+color_scheme: colors
 search_enabled: false
 heading_anchors: false
 permalink: pretty
