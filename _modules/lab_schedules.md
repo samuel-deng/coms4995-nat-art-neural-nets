@@ -4,7 +4,7 @@ title: Lab Schedule
 
 Jan 20
 : [Intro to Programming and Python](https://colab.research.google.com/drive/1N6QhRX_0AGFINkYDwXWO8QtiWJrTCzCy?usp=sharing)
-  : (Optional, held virtually)
+  : [lab1.pdf](https://drive.google.com/file/d/1-ZCVnDgR7MNeJhjGkTu6C9iPGbqM_Hib/view?usp=sharing)
 
 Jan 27
 : [Making Plots and Matplotlib](#)
