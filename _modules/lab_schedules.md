@@ -7,7 +7,7 @@ Jan 20
   : [lab1.pdf](https://drive.google.com/file/d/1-ZCVnDgR7MNeJhjGkTu6C9iPGbqM_Hib/view?usp=sharing)
 
 Jan 27
-: [Making Plots and Matplotlib](#)
+: [Intro Programming (cont.) and Making Plots](#)
   : (Optional, held virtually)
 
 Feb 3
