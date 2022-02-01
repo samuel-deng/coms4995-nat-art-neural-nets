@@ -8,7 +8,7 @@ Jan 20
 
 Jan 27
 : [Intro Programming (cont.) and Making Plots](https://colab.research.google.com/drive/12IAow8oi-1_Lgxtfz0_pZyhgy06hrT1U?usp=sharing)
-  : (Optional, held virtually)
+  : [lab2.pdf](https://drive.google.com/file/d/1S99ANhfWaFJ2j3q15Zyf6b2VWeN7houY/view?usp=sharing)
 
 Feb 3
 : [Algorithms](#)
