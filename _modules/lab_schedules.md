@@ -11,7 +11,7 @@ Jan 27
   : [lab2.pdf](https://drive.google.com/file/d/1S99ANhfWaFJ2j3q15Zyf6b2VWeN7houY/view?usp=sharing)
 
 Feb 3
-: [Algorithms](#)
+: [Algorithms](https://colab.research.google.com/drive/1S9gvJ4Y8y-30x3e41zcTtMVz8roKA8d9?usp=sharing)
 
 Feb 10
 : [Probability and Randomized Algorithms](#)
