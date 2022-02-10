@@ -16,6 +16,7 @@ Feb 3
 
 Feb 10
 : [Probability and Randomized Algorithms](https://colab.research.google.com/drive/1w6zklbTwj3AsWT0BbLU5Hl7TiAAzoZsO?usp=sharing)
+  : [lab4.pdf](https://drive.google.com/file/d/1ADf1ravijfbiEvqpKi3uanx04LaNu3s3/view?usp=sharing)
 
 Feb 17
 : [ML Basics and Perceptron Algorithm](#)
