@@ -19,7 +19,8 @@ Feb 10
   : [lab4.pdf](https://drive.google.com/file/d/1ADf1ravijfbiEvqpKi3uanx04LaNu3s3/view?usp=sharing)
 
 Feb 17
-: [ML Basics and Perceptron Algorithm](#)
+: [ML Basics and Perceptron Algorithm](https://colab.research.google.com/drive/1jJKefgraVb_YU6XqBawxnnjUfavcTMVe?usp=sharing)
+  : [lab5.pdf](https://drive.google.com/file/d/1Shdge8Zx7jdV5irf1P8lillYqgQS8XHW/view?usp=sharing)
 
 Feb 24
 : [Classification](#)
