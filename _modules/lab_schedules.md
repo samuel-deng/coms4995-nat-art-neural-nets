@@ -23,7 +23,8 @@ Feb 17
   : [lab5.pdf](https://drive.google.com/file/d/1Shdge8Zx7jdV5irf1P8lillYqgQS8XHW/view?usp=sharing)
 
 Feb 24
-: [Classification](#)
+: [Classification](https://colab.research.google.com/drive/1ICLoJcjwtUuxS-I_DYr4Vsff676P1Zk8?usp=sharing)
+  : [lab6.pdf](https://drive.google.com/file/d/1r4pJPvnPPuIhayuzRqkS1KB7BzvnNByz/view?usp=sharing)
 
 Mar 3
 : [Regression](#)
