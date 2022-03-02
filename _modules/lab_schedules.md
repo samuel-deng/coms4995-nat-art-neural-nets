@@ -27,7 +27,8 @@ Feb 24
   : [lab6.pdf](https://drive.google.com/file/d/1r4pJPvnPPuIhayuzRqkS1KB7BzvnNByz/view?usp=sharing)
 
 Mar 3
-: [Regression](#)
+: [Regression](https://colab.research.google.com/drive/1D-3MtrkKBQPb2KUiRq2g3TgYji-E3IJd?usp=sharing)
+  : [lab7.pdf](https://drive.google.com/file/d/1fIgZmkmv9F7sPC8XDcWQ3kqvZpDQrb9Q/view?usp=sharing)
 
 Mar 10
 : [Neural Networks](#)
