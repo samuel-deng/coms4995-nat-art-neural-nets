@@ -31,7 +31,8 @@ Mar 3
   : [lab7.pdf](https://drive.google.com/file/d/1fIgZmkmv9F7sPC8XDcWQ3kqvZpDQrb9Q/view?usp=sharing)
 
 Mar 10
-: [Neural Networks](#)
+: [Neural Networks](https://colab.research.google.com/drive/1iKVlGEVIi_4nM8YktQV-wh7RvMQ6yyQx?usp=sharing)
+  : [lab8.pdf](https://drive.google.com/file/d/1rQDrlQ2pca9eesmQgssWMwOGVO_S0hQC/view?usp=sharing)
 
 Mar 17
 : [Spring Break](#)
