@@ -38,7 +38,8 @@ Mar 17
 : [Spring Break](#)
 
 Mar 24
-: [Gradient Descent and Optimization](#)
+: [Gradient Descent and Optimization](https://colab.research.google.com/drive/16Nm16zVskYWUKbWEAsplJDeHtLiPil_j?usp=sharing)
+  : [lab9.pdf](#)
 
 Mar 31
 : [Natural Language Processing](#)
