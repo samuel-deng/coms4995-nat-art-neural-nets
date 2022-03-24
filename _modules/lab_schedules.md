@@ -39,7 +39,7 @@ Mar 17
 
 Mar 24
 : [Gradient Descent and Optimization](https://colab.research.google.com/drive/16Nm16zVskYWUKbWEAsplJDeHtLiPil_j?usp=sharing)
-  : [lab9.pdf](#)
+  : [lab9.pdf](https://drive.google.com/file/d/1pLH2_822MWg8bd3iV5VlIJ_JxMc3yb60/view?usp=sharing)
 
 Mar 31
 : [Natural Language Processing](#)
