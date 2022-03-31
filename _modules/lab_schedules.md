@@ -42,7 +42,8 @@ Mar 24
   : [lab9.pdf](https://drive.google.com/file/d/1pLH2_822MWg8bd3iV5VlIJ_JxMc3yb60/view?usp=sharing)
 
 Mar 31
-: [Natural Language Processing](#)
+: [Natural Language Processing](https://colab.research.google.com/drive/1mU_5IfO_2QcpUIEF6c8MbQltkJeyq_e3?usp=sharing)
+  : [lab10.pdf](https://drive.google.com/file/d/1_uqEWVwbWBIylKeddmcK2YAmCLkpaooT/view?usp=sharing)
 
 Apr 6
 : [Computer Vision](#)
