@@ -46,7 +46,8 @@ Mar 31
   : [lab10.pdf](https://drive.google.com/file/d/1_uqEWVwbWBIylKeddmcK2YAmCLkpaooT/view?usp=sharing)
 
 Apr 6
-: [Computer Vision](#)
+: [Computer Vision](https://colab.research.google.com/drive/14loWuwFzMtsgjwt0YsgiXwxGDck8BuwL?usp=sharing)
+  : [lab11.pdf](https://drive.google.com/file/d/1yYfKFWDEvE-6r4WhOfX3an9a0t8U-hR4/view?usp=sharing)
 
 Apr 13
 : [Representation Learning](#)
