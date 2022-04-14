@@ -50,7 +50,8 @@ Apr 6
   : [lab11.pdf](https://drive.google.com/file/d/1yYfKFWDEvE-6r4WhOfX3an9a0t8U-hR4/view?usp=sharing)
 
 Apr 13
-: [Representation Learning](#)
+: [Representation Learning](https://colab.research.google.com/drive/1OQce-LHvo-rd3gC8u9FvloCsV4VqhlQK?usp=sharing)
+  : [lab12.pdf](https://drive.google.com/file/d/1lGdXlDoPsuG037rnksUNdbekuzMpRsyp/view?usp=sharing)
 
 Apr 20
 : [Unsupervised Learning](#)
