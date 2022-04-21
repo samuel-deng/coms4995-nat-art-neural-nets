@@ -54,7 +54,8 @@ Apr 13
   : [lab12.pdf](https://drive.google.com/file/d/1lGdXlDoPsuG037rnksUNdbekuzMpRsyp/view?usp=sharing)
 
 Apr 20
-: [Unsupervised Learning](#)
+: [Unsupervised Learning](https://colab.research.google.com/drive/1IT7tOWbIMDBzgTjNNUFOkkBvMhnbxiOb?usp=sharing)
+  : [lab13.pdf](https://drive.google.com/file/d/1mEh63YrT7rVLWrkAEZjJKsl397XDLjDw/view?usp=sharing)
 
 Apr 27
 : [Ethics in AI/ML](#)
