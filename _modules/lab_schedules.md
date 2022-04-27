@@ -45,17 +45,17 @@ Mar 31
 : [Natural Language Processing](https://colab.research.google.com/drive/1mU_5IfO_2QcpUIEF6c8MbQltkJeyq_e3?usp=sharing)
   : [lab10.pdf](https://drive.google.com/file/d/1_uqEWVwbWBIylKeddmcK2YAmCLkpaooT/view?usp=sharing)
 
-Apr 6
+Apr 7
 : [Computer Vision](https://colab.research.google.com/drive/14loWuwFzMtsgjwt0YsgiXwxGDck8BuwL?usp=sharing)
   : [lab11.pdf](https://drive.google.com/file/d/1yYfKFWDEvE-6r4WhOfX3an9a0t8U-hR4/view?usp=sharing)
 
-Apr 13
+Apr 14
 : [Representation Learning](https://colab.research.google.com/drive/1OQce-LHvo-rd3gC8u9FvloCsV4VqhlQK?usp=sharing)
   : [lab12.pdf](https://drive.google.com/file/d/1lGdXlDoPsuG037rnksUNdbekuzMpRsyp/view?usp=sharing)
 
-Apr 20
+Apr 21
 : [Unsupervised Learning](https://colab.research.google.com/drive/1IT7tOWbIMDBzgTjNNUFOkkBvMhnbxiOb?usp=sharing)
   : [lab13.pdf](https://drive.google.com/file/d/1mEh63YrT7rVLWrkAEZjJKsl397XDLjDw/view?usp=sharing)
 
-Apr 27
+Apr 28
 : [Ethics in AI/ML](#)
