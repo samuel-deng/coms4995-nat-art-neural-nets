@@ -58,4 +58,5 @@ Apr 21
   : [lab13.pdf](https://drive.google.com/file/d/1mEh63YrT7rVLWrkAEZjJKsl397XDLjDw/view?usp=sharing)
 
 Apr 28
-: [Ethics in AI/ML](#)
+: [Ethics in AI/ML](https://colab.research.google.com/drive/1lvVrdtp5dbBIC327Dx6bqOuxef5_wim-?usp=sharing)
+  : [lab14.pdf](https://drive.google.com/file/d/1DyoPhVRZTt9NZHKsbphva4IGZD1uj17-/view?usp=sharing)
