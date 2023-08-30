@@ -18,7 +18,7 @@ tagline: Columbia University, Spring 2022                       # Appears as a t
 description: Natural and Artificial Neural Networks Lab         # The actual title
 author: Samuel Deng
 baseurl: '/coms4995-nat-art-neural-nets' # the subpath of your site, e.g. /blog
-url: 'https://essdeee.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://samuel-deng.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
