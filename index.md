@@ -12,13 +12,13 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-**Instructors:** Christos Papadimitriou, John Morrison, Clayton Sanford, and Samuel Deng  
+**Instructors:** Samuel Deng and Clayton Sanford  
 
 **Time:** Thurs 2:10 PM - 4:00 PM.
 
 **Location:** 516 Milstein Center (Lab 3 onward). First two labs on Zoom (check Courseworks for link).
 
-**Course Description:** Understanding the powers and limitations of artificial neural networks requires exposure to both concepts and practice. This lab section focuses on the latter, supplementing the conceptual framework from the seminar, Natural and Artificial Neural Networks. The lab focuses on giving students without a background in computer science hands-on experience with basic programming in Python, tools for data science, and a variety of machine learning algorithms. 
+**Course Description:** Understanding the powers and limitations of artificial neural networks requires exposure to both concepts and practice. This lab section focuses on the latter, supplementing the conceptual framework from the seminar, Natural and Artificial Neural Networks, taught by Christos Papadimitriou and John Morrison. The lab focuses on giving students without a background in computer science hands-on experience with basic programming in Python, tools for data science, and a variety of machine learning algorithms. 
 
 **Notes on Prerequisites:** The labs are all aimed towards students who have zero programming experience and start with a series of modules that teach the Python fundamentals necessary for later labs, which stress AI/ML applications. The lab section is not a comprehensive introduction to any of these subjects; rather, it is designed to supplement a non-technical understanding of ML and data science by exposing students first-hand to the concepts discussed. If you are a student who has already had exposure (at the level of a full class) to both Python and machine learning, there is likely not much this lab will cover that will be particularly novel to you. Regardless, your participation is welcome. 
 
